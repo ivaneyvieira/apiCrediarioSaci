@@ -1,1 +1,1 @@
-rootProject.name = "crediario_saci"
+rootProject.name = "saci"

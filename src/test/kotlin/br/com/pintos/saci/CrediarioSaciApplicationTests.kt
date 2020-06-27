@@ -1,4 +1,4 @@
-package br.com.pintos.crediario_saci
+package br.com.pintos.saci
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
